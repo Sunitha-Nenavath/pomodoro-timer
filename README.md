@@ -4,9 +4,7 @@ A single-page Pomodoro timer with daily session history, built with vanilla HTML
 
 ## Live Demo
 
-> _Add your deployed URL here after deploying to GitHub Pages / Netlify / Vercel_
-
----
+https://lambent-manatee-a13382.netlify.app/
 
 ## How to Run Locally
 
