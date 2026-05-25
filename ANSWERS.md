@@ -10,7 +10,7 @@ npx serve .
 # Visit http://localhost:3000
 ```
 
-Deployed URL: _(add after deploying)_
+Deployed URL: https://lambent-manatee-a13382.netlify.app/
 
 ---
 
